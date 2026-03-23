@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan (Fachri Akbar)</h1>
-<h3 align="center">SA-MP Developer • Automation Enthusiast • Backend Learner</h3>
+<h3 align="center">SA-MP Developer • Automation Enthusiast • Network Engineer • Backend Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fahr1akbar&label=Profile%20Views&color=0e75b6&style=flat" />
