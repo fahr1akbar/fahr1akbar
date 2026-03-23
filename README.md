@@ -12,7 +12,8 @@
 - ⚙️ Experienced in **Game Server Systems & Automation**  
 - 🖥️ Working with **Robotic Process Automation (RPA)**  
 - 🌐 Interested in **Backend Development & Server Infrastructure**  
-- 🚀 Love building systems that are **efficient, scalable, and automated**
+- 🚀 Love building systems that are **efficient, scalable, and automated
+- 💡 Most of my work is in private repositories**
 
 ---
 
