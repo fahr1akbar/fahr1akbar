@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fahri</h1>
+<h1 align="center">Hi 👋, I'm Jonathan (Fachri Akbar)</h1>
 <h3 align="center">SA-MP Developer • Automation Enthusiast • Backend Learner</h3>
 
 <p align="center">
