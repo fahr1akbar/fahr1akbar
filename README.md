@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jonathan (Fachri Akbar)</h1>
-<h3 align="center">SA-MP Developer • Automation Enthusiast • Network Engineer • Backend Learner</h3>
+<h1 align="center">Hi 👋, I'm Jonathan (Fahri Akbar)</h1>
+<h3 align="center">SA-MP Developer • Network Engineer • Automation Engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fahr1akbar&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -8,12 +8,13 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎮 SA-MP Developer since 2021  
-- ⚙️ Experienced in **Game Server Systems & Automation**  
-- 🖥️ Working with **Robotic Process Automation (RPA)**  
-- 🌐 Interested in **Backend Development & Server Infrastructure**  
-- 🚀 Love building systems that are **efficient, scalable, and automated**
-- 💡 Most of my work is in **private repositories**
+- 🎮 **SA-MP Developer since 2021 (4+ years experience)**
+- 🛠️ Currently developing systems for **Mayday Roleplay (Production Server)**
+- 🖥️ Former **Founder & Network Engineer at Space Cloud Hosting (2023)**
+- ⚙️ Experienced in **Game Server Systems, Automation & Backend Integration**
+- 🌐 Strong interest in **Server Infrastructure, Networking & Performance Optimization**
+- 🚀 Focused on building **scalable, efficient, and automated systems**
+- 💡 Most of my work is in **private repositories (production use)**
 
 ---
 
@@ -22,17 +23,38 @@
   <img src="https://skillicons.dev/icons?i=js,nodejs,python,mysql,linux" />
 </p>
 
-**Also Working With:**
-- 🧠 PAWN (SA-MP / OpenMP)
-- 🔧 Automation Systems
-- 🛡️ Basic Networking & Server Management
+**Core Skills:**
+- 🧠 **PAWN (SA-MP / OpenMP Development)**
+- ⚙️ **Node.js Backend Development**
+- 🗄️ **MySQL Database Optimization**
+- 🖥️ **Linux Server Administration**
+- 🛡️ **Networking & Basic Anti-DDoS**
+- 🤖 **Automation Systems & Discord Integration**
 
 ---
 
-## 🛠️ Tools
-<p>
-  <img src="https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode&logoColor=white" />
-</p>
+## 🚀 Experience Highlights
+- 🏢 **Mayday Roleplay**  
+  → SA-MP Developer (Present)  
+  → Developing game systems, optimizing performance, maintaining production server  
+
+- ☁️ **Space Cloud Hosting (2023)**  
+  → Founder & Network Engineer  
+  → Built and managed game hosting infrastructure  
+  → Implemented network optimization & basic DDoS protection  
+
+- 🧪 **Freelance / Personal Projects (2021 - Present)**  
+  → Built multiple SA-MP systems & backend tools  
+  → Focus on automation & server performance  
+
+---
+
+## 🧩 Featured Projects
+- 🎮 SA-MP Race System  
+- 🎒 Accessories System (Database-Based)  
+- 💳 Topup / Billing Website  
+- 🤖 Discord Automation Bot  
+- 🖥️ Server Control Panel  
 
 ---
 
@@ -45,10 +67,10 @@
 ---
 
 ## 🚧 Currently Working On
-- 🔭 Developing **SA-MP Server Systems**
-- 🌱 Learning **Node.js, JavaScript, Python**
-- 🤖 Building **Automation & Backend Tools**
-- 👯 Open for collaboration in **Automation & Game Projects**
+- 🔭 Developing **advanced SA-MP server systems**
+- 🌱 Learning **scalable backend architecture (Node.js)**
+- 🤖 Building **automation tools & integrations**
+- ⚡ Improving **server performance & infrastructure**
 
 ---
 
@@ -62,4 +84,4 @@
 ---
 
 ## ⚡ Fun Fact
-> I love turning complex systems into automated solutions 🚀
+> I build systems that run automatically, so I don’t have to 😎
