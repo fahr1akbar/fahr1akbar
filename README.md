@@ -25,9 +25,8 @@ SA-MP / open.mp developer since 2021, focused on gameplay systems, server-side d
 
 ## Selected Projects
 
-- SA-MP / open.mp gameplay systems
-- Accessories system SA-MP / open.mp
-- Top-up and billing website
+- SA-MP / open.mp many features are created
+- UCP, Top-up and billing website
 - Discord bot
 - etc.
 
