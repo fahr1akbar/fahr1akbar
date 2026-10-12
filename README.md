@@ -11,9 +11,9 @@ SA-MP / open.mp developer since 2021, focused on gameplay systems, server-side d
 
 ## Experience
 
-- **Mayday Roleplay** — Ex Developer · `2024–2026`
-- **Great Roleplay** — Ex Developer · `2022–2023`
 - **Indolax Roleplay** — Ex Developer · `2021–2022`
+- **Great Roleplay** — Ex Developer · `2022–2023`
+- **Mayday Roleplay** — Ex Developer · `2024–2026`
 - **Other Server Projects** — Contributed to a range of large and small servers.
 
 ## Skills
