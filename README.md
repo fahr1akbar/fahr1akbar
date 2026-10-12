@@ -1,10 +1,6 @@
 <h1 align="center">Jonathan (Fahri Akbar)</h1>
 <p align="center">
-  <strong>SA-MP / open.mp Developer · Backend & Automation · Network Infrastructure</strong>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fahr1akbar&label=Profile%20Views&color=555555&style=flat" alt="Profile views" />
+  <strong>SA-MP / open.mp Developer · Backend · Network Infrastructure</strong>
 </p>
 
 ---
@@ -18,7 +14,7 @@ SA-MP / open.mp developer since 2021, focused on gameplay systems, server-side d
 - **Mayday Roleplay** — Ex Developer · `2024–2026`
 - **Great Roleplay** — Ex Developer · `2022–2023`
 - **Indolax Roleplay** — Ex Developer · `2021–2022`
-- **Other Roleplay Projects** — Contributed to a range of large and small servers.
+- **Other Server Projects** — Contributed to a range of large and small servers.
 
 ## Skills
 
