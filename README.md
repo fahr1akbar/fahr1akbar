@@ -34,8 +34,8 @@
 ---
 
 ## 🚀 Experience Highlights
-- 🏢 **Mayday Roleplay**  
-  → SA-MP Developer (Present)  
+- 🏢 **Mayday Roleplay (2024 - 2026)**  
+  → SA-MP Developer (Ex)  
   → Developing game systems, optimizing performance, maintaining production server  
 
 - ☁️ **Space Cloud Hosting (2023)**  
@@ -82,6 +82,3 @@
 </p>
 
 ---
-
-## ⚡ Fun Fact
-> I build systems that run automatically, so I don’t have to 😎
